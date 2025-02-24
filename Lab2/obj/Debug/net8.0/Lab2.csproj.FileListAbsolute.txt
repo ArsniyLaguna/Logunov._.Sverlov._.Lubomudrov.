@@ -1,0 +1,15 @@
+/Users/arsenijlogunov/Documents/GitHub/Logunov._.Sverlov._.Lubomudrov./Lab2/bin/Debug/net8.0/Lab2
+/Users/arsenijlogunov/Documents/GitHub/Logunov._.Sverlov._.Lubomudrov./Lab2/bin/Debug/net8.0/Lab2.deps.json
+/Users/arsenijlogunov/Documents/GitHub/Logunov._.Sverlov._.Lubomudrov./Lab2/bin/Debug/net8.0/Lab2.runtimeconfig.json
+/Users/arsenijlogunov/Documents/GitHub/Logunov._.Sverlov._.Lubomudrov./Lab2/bin/Debug/net8.0/Lab2.dll
+/Users/arsenijlogunov/Documents/GitHub/Logunov._.Sverlov._.Lubomudrov./Lab2/bin/Debug/net8.0/Lab2.pdb
+/Users/arsenijlogunov/Documents/GitHub/Logunov._.Sverlov._.Lubomudrov./Lab2/obj/Debug/net8.0/Lab2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arsenijlogunov/Documents/GitHub/Logunov._.Sverlov._.Lubomudrov./Lab2/obj/Debug/net8.0/Lab2.AssemblyInfoInputs.cache
+/Users/arsenijlogunov/Documents/GitHub/Logunov._.Sverlov._.Lubomudrov./Lab2/obj/Debug/net8.0/Lab2.AssemblyInfo.cs
+/Users/arsenijlogunov/Documents/GitHub/Logunov._.Sverlov._.Lubomudrov./Lab2/obj/Debug/net8.0/Lab2.csproj.CoreCompileInputs.cache
+/Users/arsenijlogunov/Documents/GitHub/Logunov._.Sverlov._.Lubomudrov./Lab2/obj/Debug/net8.0/Lab2.sourcelink.json
+/Users/arsenijlogunov/Documents/GitHub/Logunov._.Sverlov._.Lubomudrov./Lab2/obj/Debug/net8.0/Lab2.dll
+/Users/arsenijlogunov/Documents/GitHub/Logunov._.Sverlov._.Lubomudrov./Lab2/obj/Debug/net8.0/refint/Lab2.dll
+/Users/arsenijlogunov/Documents/GitHub/Logunov._.Sverlov._.Lubomudrov./Lab2/obj/Debug/net8.0/Lab2.pdb
+/Users/arsenijlogunov/Documents/GitHub/Logunov._.Sverlov._.Lubomudrov./Lab2/obj/Debug/net8.0/Lab2.genruntimeconfig.cache
+/Users/arsenijlogunov/Documents/GitHub/Logunov._.Sverlov._.Lubomudrov./Lab2/obj/Debug/net8.0/ref/Lab2.dll
